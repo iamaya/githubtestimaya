@@ -9778,11 +9778,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Imaya\\code\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+      "projectUniqueName": "C:\\Imaya\\code\\GitHubTest\\githubtestimaya\\GitHubTest\\GitHubTest.csproj",
       "projectName": "GitHubTest",
-      "projectPath": "C:\\Imaya\\code\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+      "projectPath": "C:\\Imaya\\code\\GitHubTest\\githubtestimaya\\GitHubTest\\GitHubTest.csproj",
       "packagesPath": "C:\\Users\\imaya-kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Imaya\\code\\GitHubTest\\GitHubTest\\obj\\",
+      "outputPath": "C:\\Imaya\\code\\GitHubTest\\githubtestimaya\\GitHubTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imaya-kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",

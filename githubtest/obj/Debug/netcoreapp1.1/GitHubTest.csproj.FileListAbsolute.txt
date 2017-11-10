@@ -1,0 +1,11 @@
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\bin\Debug\netcoreapp1.1\GitHubTest.deps.json
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\bin\Debug\netcoreapp1.1\GitHubTest.runtimeconfig.json
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\bin\Debug\netcoreapp1.1\GitHubTest.runtimeconfig.dev.json
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\bin\Debug\netcoreapp1.1\GitHubTest.dll
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\bin\Debug\netcoreapp1.1\GitHubTest.pdb
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.csprojResolveAssemblyReference.cache
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.AssemblyInfoInputs.cache
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.AssemblyInfo.cs
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.dll
+C:\Imaya\code\GitHubTest\githubtestimaya\GitHubTest\obj\Debug\netcoreapp1.1\GitHubTest.pdb
